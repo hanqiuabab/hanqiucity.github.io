@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-09T02:45:44.112Z</updated>
+  <updated>2022-03-10T02:30:45.497Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>明日歌</title>
+    <link href="http://example.com/2022/03/10/2022-03-10/"/>
+    <id>http://example.com/2022/03/10/2022-03-10/</id>
+    <published>2022-03-10T02:29:15.000Z</published>
+    <updated>2022-03-10T02:30:45.497Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="明日歌"><a href="#明日歌" class="headerlink" title="明日歌"></a>明日歌</h1><p>钱福（明代）</p><p>明日复明日，明日何其多。<br>我生待明日，万事成蹉跎。<br>世人若被明日累，春去秋来老将至。<br>朝看水东流，暮看日西坠。<br>百年明日能几何？请君听我明日歌。</p><p>明日复明日，明日何其多！<br>日日待明日，万事成蹉跎。<br>世人皆被明日累，明日无穷老将至。<br>晨昏滚滚水东流，今古悠悠日西坠。<br>百年明日能几何？请君听我明日歌。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;明日歌&quot;&gt;&lt;a href=&quot;#明日歌&quot; class=&quot;headerlink&quot; title=&quot;明日歌&quot;&gt;&lt;/a&gt;明日歌&lt;/h1&gt;&lt;p&gt;钱福（明代）&lt;/p&gt;
+&lt;p&gt;明日复明日，明日何其多。&lt;br&gt;我生待明日，万事成蹉跎。&lt;br&gt;世人若被明日累，春去秋来老将至。&lt;br&gt;</summary>
+      
+    
+    
+    
+    <category term="每日一首古诗词" scheme="http://example.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A6%96%E5%8F%A4%E8%AF%97%E8%AF%8D/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>滕王阁序</title>
