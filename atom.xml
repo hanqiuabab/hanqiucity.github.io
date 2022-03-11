@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-10T02:30:45.497Z</updated>
+  <updated>2022-03-11T01:23:38.559Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一剪梅·红藕香残玉簟秋</title>
+    <link href="http://example.com/2022/03/11/2022-03-11/"/>
+    <id>http://example.com/2022/03/11/2022-03-11/</id>
+    <published>2022-03-11T01:21:20.000Z</published>
+    <updated>2022-03-11T01:23:38.559Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一剪梅·红藕香残玉簟秋"><a href="#一剪梅·红藕香残玉簟秋" class="headerlink" title="一剪梅·红藕香残玉簟秋"></a>一剪梅·红藕香残玉簟秋</h1><p>李清照（宋代）</p><p>红藕香残玉簟秋。轻解罗裳，独上兰舟。云中谁寄锦书来？雁字回时，月满西楼。<br>花自飘零水自流。一种相思，两处闲愁。此情无计可消除，才下眉头，却上心头。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一剪梅·红藕香残玉簟秋&quot;&gt;&lt;a href=&quot;#一剪梅·红藕香残玉簟秋&quot; class=&quot;headerlink&quot; title=&quot;一剪梅·红藕香残玉簟秋&quot;&gt;&lt;/a&gt;一剪梅·红藕香残玉簟秋&lt;/h1&gt;&lt;p&gt;李清照（宋代）&lt;/p&gt;
+&lt;p&gt;红藕香残玉簟秋。轻解罗裳，独上兰舟。云</summary>
+      
+    
+    
+    
+    <category term="每日一首古诗词" scheme="http://example.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A6%96%E5%8F%A4%E8%AF%97%E8%AF%8D/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>明日歌</title>
