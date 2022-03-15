@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-14T01:47:30.031Z</updated>
+  <updated>2022-03-15T01:30:14.734Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>题都城南庄</title>
+    <link href="http://example.com/2022/03/15/2022-03-15/"/>
+    <id>http://example.com/2022/03/15/2022-03-15/</id>
+    <published>2022-03-15T01:29:29.000Z</published>
+    <updated>2022-03-15T01:30:14.734Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="题都城南庄"><a href="#题都城南庄" class="headerlink" title="题都城南庄"></a>题都城南庄</h1><p>崔护（唐代）</p><p>去年今日此门中，人面桃花相映红。<br>人面不知何处去，桃花依旧笑春风。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;题都城南庄&quot;&gt;&lt;a href=&quot;#题都城南庄&quot; class=&quot;headerlink&quot; title=&quot;题都城南庄&quot;&gt;&lt;/a&gt;题都城南庄&lt;/h1&gt;&lt;p&gt;崔护（唐代）&lt;/p&gt;
+&lt;p&gt;去年今日此门中，人面桃花相映红。&lt;br&gt;人面不知何处去，桃花依旧笑春风。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="每日一首古诗词" scheme="http://example.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A6%96%E5%8F%A4%E8%AF%97%E8%AF%8D/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>木兰花·拟古决绝词柬友</title>
